@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @valerietonsor
-- 👀 I’m interested in ... swimming, camping, Taylor Swift, & naps
-- 🌱 I’m currently learning ... JavaScript & Java
 - 📫 How to reach me ... valerie.tonsor@gmail.com
 
 <!---
