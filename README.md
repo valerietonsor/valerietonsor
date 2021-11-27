@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @valerietonsor
+- 📍 Software Engineer from St. Louis, MO 
+- 👩🏼‍💻 Java, JavaScript, Angular
 - 📫 How to reach me ... valerie.tonsor@gmail.com
 
 <!---
